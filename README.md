@@ -1,7 +1,7 @@
 # AI-Hackathon-Idea-Generator
 AI Hackathon Idea Generator is a Python-based project powered by Google Gemini AI that generates innovative and real-world hackathon ideas based on user input. 
 
-Features
+# Features
 
 *Domain-based idea generation
 
@@ -11,7 +11,7 @@ Features
 
 *Powered by Gemini AI reasoning
 
-How Gemini AI Is Used
+# How Gemini AI Is Used
 
 *This project uses Google Gemini AI for:
 
@@ -21,12 +21,13 @@ How Gemini AI Is Used
 
 *Structured project generation
 
-How to Run
+# How to Run
 
 pip install -r requirements.txt
+
 python app.py
 
-Use Cases
+# Use Cases
 
 *Hackathons
 
@@ -36,7 +37,7 @@ Use Cases
 
 *Innovation challenge
 
-structure
+# structure
 
 ai-hackathon-idea-generator/
 
